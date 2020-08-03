@@ -1,0 +1,7 @@
+For the  model that predicts the number of violent crimes at a week-beat level for the next week:
+R squared: 0.029566861583557147
+RMSE: 1.1457166145807378
+
+For the model that predicts the number of non-violent crimes at a week-beat level for the next week:
+R squared: 0.16784922093685073
+RMSE: 11.328945185878874

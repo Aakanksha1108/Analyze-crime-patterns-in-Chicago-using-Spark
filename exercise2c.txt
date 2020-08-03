@@ -1,0 +1,8 @@
+Difference in the ward-month level crimes between Mayor Daley and Mayor Emanuel
+38.03866526784581
+
+T-test value to assess significance of this difference:
+6.825973981067508
+
+P-value of t-test:
+9.328938965503266e-12
